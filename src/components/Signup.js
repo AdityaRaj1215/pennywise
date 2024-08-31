@@ -167,7 +167,7 @@ const SignUpSignIn = () => {
         ) : (
           <div className="signup-signin-container">
             <h2 style={{ textAlign: "center" }}>
-              Sign Up on <span className="blue-text">Financely.</span>
+              Sign Up on <span className="blue-text">Pennywise.</span>
             </h2>
             <form onSubmit={signUpWithEmail}>
               <div className="input-wrapper">
